@@ -78,3 +78,6 @@ https://enigmatic-basin-87747.herokuapp.com/
 
 ## Link to Assignment:
 https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-fsf-pt-08-2019-u-c/wikis/Project-02
+
+## Contributors:
+Jonathan Bodnar | Lavar Cole | Aruna Kolli | Kaiisha Oliver | Nicolas Upshaw
